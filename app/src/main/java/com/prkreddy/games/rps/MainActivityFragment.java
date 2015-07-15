@@ -13,7 +13,7 @@ import android.widget.Button;
  */
 public class MainActivityFragment extends Fragment {
 
-    private Button mNext;
+    //private Button mNext;
 
     public MainActivityFragment() {
     }
